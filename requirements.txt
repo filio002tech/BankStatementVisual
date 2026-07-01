@@ -1,6 +1,8 @@
-Flask
-pandas
-openpyxl
-numpy
-scikit-learn
-plotly
+Flask>=3.0.0
+numpy>=1.22.0
+pandas>=1.4.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+openpyxl>=3.0.0
+plotly>=6.0.0
+gunicorn>=21.2.0
